@@ -14,10 +14,10 @@ Penn Libraries has agreements with a number of publishers that provide APC-free 
 | [Nature Geoscience](https://www.nature.com/ngeo/)                                                                                                       | 20.6          | 12.29            | 6.141        | 3,000 words, 6 items  | 247               | 0        |
 | [Progress in Oceanography](https://www.sciencedirect.com/journal/progress-in-oceanography)                                                              | 3.9           | 3.16             | 1.281        | no length limit       | 191               | 0        |
 | [Progress in Physical Geography: Earth and Environment](https://journals.sagepub.com/loi/PPG)                                                           | 3.5           | 2.23             | 1.021        | 7000 words, 8 items   | 186               | 0        |
-| [Journal of Geophysical Research: Oceans](https://agupubs.onlinelibrary.wiley.com/journal/21699291)                                                     | 3.3           | 2.89             | 1.376        | 25 PUs                | 183               | $1,000   |
+| [Journal of Geophysical Research: Oceans](https://agupubs.onlinelibrary.wiley.com/journal/21699291)                                                     | 3.3           | 2.89             | 1.376        | 25 PUs                | 183               | $1,000 (waived for OA)  |
 | [Ocean Modelling](https://www.sciencedirect.com/journal/ocean-modelling)                                                                                | 3.1           | 2.98             | 0.898        | 10000 words           | 167               | 0        |
 | [Deep Sea Research Part I: Oceanographic Research Papers](https://www.sciencedirect.com/journal/deep-sea-research-part-i-oceanographic-research-papers) | 2.4           | 2.23             | 0.763        | no length limit       | 181               | 0        |
-|                                                                                                                                                         |               |                  |              |                       |                   |          |
+
 
 
 JGR PU = number of words/500 + number of figures + number of tables

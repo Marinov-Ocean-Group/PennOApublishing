@@ -7,20 +7,36 @@ Penn Libraries has agreements with a number of publishers that provide APC-free 
 
 ## Journals with no OA APC
 
-| Journal                                                                                                                                                 | Impact Factor | 2-year citedness | SCImago rank | Length of the article | Acceptance (days) | Base fee |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ---------------- | ------------ | --------------------- | ----------------- | -------- |
-| [Nature](https://www.nature.com/)                                                                                                                       | 56.1          | 18.77            | 19.713       | 6 pages, 4 items      | 321               | 0        |
-| [Nature Climate Change](https://www.nature.com/nclimate/)                                                                                               | 26.9          | 13.28            | 7.978        | 3,000 words, 6 items  | 175               | 0        |
-| [Nature Geoscience](https://www.nature.com/ngeo/)                                                                                                       | 20.6          | 12.29            | 6.141        | 3,000 words, 6 items  | 247               | 0        |
-| [Progress in Oceanography](https://www.sciencedirect.com/journal/progress-in-oceanography)                                                              | 3.9           | 3.16             | 1.281        | no length limit       | 191               | 0        |
-| [Progress in Physical Geography: Earth and Environment](https://journals.sagepub.com/loi/PPG)                                                           | 3.5           | 2.23             | 1.021        | 7000 words, 8 items   | 186               | 0        |
-| [Journal of Geophysical Research: Oceans](https://agupubs.onlinelibrary.wiley.com/journal/21699291)                                                     | 3.3           | 2.89             | 1.376        | 25 PUs                | 183               | $1,000 (waived for OA)  |
-| [Ocean Modelling](https://www.sciencedirect.com/journal/ocean-modelling)                                                                                | 3.1           | 2.98             | 0.898        | 10000 words           | 167               | 0        |
-| [Deep Sea Research Part I: Oceanographic Research Papers](https://www.sciencedirect.com/journal/deep-sea-research-part-i-oceanographic-research-papers) | 2.4           | 2.23             | 0.763        | no length limit       | 181               | 0        |
-
-
+| Journal                                                                                                                                                 | Impact Factor | 2-year citedness | SCImago rank | Length of the article | Acceptance (days) | Base fee               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ---------------- | ------------ | --------------------- | ----------------- | ---------------------- |
+| [Nature](https://www.nature.com/)                                                                                                                       | 56.1          | 18.77            | 19.713       | 6 pages, 4 items      | 321               | 0                      |
+| [Nature Climate Change](https://www.nature.com/nclimate/)                                                                                               | 26.9          | 13.28            | 7.978        | 3,000 words, 6 items  | 175               | 0                      |
+| [Nature Geoscience](https://www.nature.com/ngeo/)                                                                                                       | 20.6          | 12.29            | 6.141        | 3,000 words, 6 items  | 247               | 0                      |
+| [Climate Dynamics](https://link.springer.com/journal/382)                                                                                               | 4.0           | 2.80             | 1.531        | no limit              |                   | 0                      |
+| [Progress in Oceanography](https://www.sciencedirect.com/journal/progress-in-oceanography)                                                              | 3.9           | 3.16             | 1.281        | no limit              | 191               | 0                      |
+| [Progress in Physical Geography: Earth and Environment](https://journals.sagepub.com/loi/PPG)                                                           | 3.5           | 2.23             | 1.021        | 7000 words, 8 items   | 186               | 0                      |
+| [Journal of Geophysical Research: Oceans](https://agupubs.onlinelibrary.wiley.com/journal/21699291)                                                     | 3.3           | 2.89             | 1.376        | 25 PUs                | 183               | $1,000 (waived for OA) |
+| [Ocean Modelling](https://www.sciencedirect.com/journal/ocean-modelling)                                                                                | 3.1           | 2.98             | 0.898        | 10000 words           | 167               | 0                      |
+| [Deep Sea Research Part I: Oceanographic Research Papers](https://www.sciencedirect.com/journal/deep-sea-research-part-i-oceanographic-research-papers) | 2.4           | 2.23             | 0.763        | no limit              | 181               | 0                      |
 
 JGR PU = number of words/500 + number of figures + number of tables
+
+
+## Other related journals without agreements with Penn
+
+| Journal                                                                                               | Impact Factor | 2-year citedness | SCImago rank | Length of the article | Acceptance (days) | Base fee              | OA fee    |
+| ----------------------------------------------------------------------------------------------------- | ------------- | ---------------- | ------------ | --------------------- | ----------------- | --------------------- | --------- |
+| [PNAS](https://www.pnas.org/)                                                                         | 9.5           |                  |              | 6-12 pages            |                   |                       | $3,025    |
+| [Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/journal/19448007)              | 5.0           |                  |              | 12 PUs                |                   |                       | $3,440    |
+| [The Cryosphere](https://www.the-cryosphere.net/)                                                     | 4.9           |                  | 2.28         | 12 pages              |                   |                       | €1,800    |
+| [Journal of Climate](https://www.ametsoc.org/ams/publications/journals/journal-of-climate/)           | 4.3           |                  |              | 7500 words            |                   | $120 per typeset page | $1300     |
+| [Climate of the Past](https://www.climate-of-the-past.net/)                                           | 3.8           |                  | 1.73         | no limit              |                   |                       | €1,980    |
+| [Frontiers in Marine Science](https://www.frontiersin.org/journals/marine-science)                    | 3.4           |                  |              | 12,000 words          |                   |                       | CHF 3,150 |
+| [Journal of Physical Oceanography](https://journals.ametsoc.org/view/journals/phoc/phoc-overview.xml) | 2.9           |                  |              | 7500 words            |                   | $120 per typeset page | $1300     |
+
+
+PU = number of words/500 + number of figures + number of tables
+
 
 ## Citation Impact
 
